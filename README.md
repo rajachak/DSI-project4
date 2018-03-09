@@ -25,7 +25,9 @@ We set out to do four things:
   3) properly allocate our team, time, and resources to accomplish our goals (Sian). Find our project management document here: https://docs.google.com/spreadsheets/d/14TeazAnTMHAXWEu64KRec7Q9ASqSNv_p1B5oPRuYuQ4/edit?usp=sharing
 
 
-## **OUR FINDINGS** (see our presentation here https://docs.google.com/presentation/d/1cFFLw9rq9zW0AIquXChgikRqONU4G6UBGT8EeFmeynM/edit?usp=sharing)
+## **OUR FINDINGS** 
+(see our presentation here https://docs.google.com/presentation/d/1cFFLw9rq9zW0AIquXChgikRqONU4G6UBGT8EeFmeynM/edit?usp=sharing)
+
 To predict West Nile, we used an Adaptive Boosting machine learning algorithm (Adaboost). The ROC-AUC score measures the accuracy of our model. The lowest score of 50% and the highest score of 100%. Our model achieved a Kaggle ROC AUC score of 0.728%. This was the highest in our class, and we are proud of our efforts. Here are more findings:
 -The most “predictive” feature is the day of the year
 -The weather for a particular time period is best used for predicting presence of WNV
