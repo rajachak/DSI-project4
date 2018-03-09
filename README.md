@@ -27,6 +27,7 @@ To predict West Nile, we used an Adaptive Boosting machine learning algorithm (A
 -It is economically prudent to spray the city to prevent WNV (find our detailed Cost-Benefit Analysis here: https://docs.google.com/presentation/d/1cFFLw9rq9zW0AIquXChgikRqONU4G6UBGT8EeFmeynM/edit?usp=sharing
 
 **Files:**
+
   -Project 4 - EDA.ipynb:          Jupyter notebook with inital exploratory data analysis 
   -Project 4 model builder.ipynb:  Jupyter notebook with predictive modeling
   -test_csv.csv:                   Model output, submitted to Kaggle for final score
