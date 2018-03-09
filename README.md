@@ -22,7 +22,7 @@ We set out to do four things:
   
   c) describe the data that we have (Joshua), and,
   
-  3) properly allocate our team, time, and resources to accomplish our goals (Sian). Find our project management document here: https://docs.google.com/spreadsheets/d/14TeazAnTMHAXWEu64KRec7Q9ASqSNv_p1B5oPRuYuQ4/edit?usp=sharing
+  d) properly allocate our team, time, and resources to accomplish our goals (Sian). Find our project management document here: https://docs.google.com/spreadsheets/d/14TeazAnTMHAXWEu64KRec7Q9ASqSNv_p1B5oPRuYuQ4/edit?usp=sharing
 
 
 ## **OUR FINDINGS** 
